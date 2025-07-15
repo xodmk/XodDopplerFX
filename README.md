@@ -8,7 +8,7 @@ Title:
 DopplerEFX – Real-Time Spatial Doppler Audio Plugin
 
 Definition:  
-A JUCE-based stereo VST3 plugin for simulating Doppler-based motion using a bezier-driven path system.  
+A stereo VST3 plugin for simulating Doppler-based motion using a bezier-driven path system.  
 → 1st desired outcome: Interactive GUI for shaping curved audio motion using bezier control points  
 → 2nd desired outcome: Real-time DSP modulation of pitch, pan, gain, and filtering along path  
 
